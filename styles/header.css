@@ -59,7 +59,6 @@
 .search-button .tool-tip, 
 .voice-search-button .tool-tip,
 .icon-upload-container .tool-tip {
-    font-family: Roboto;
     position: absolute;
     background-color: gray;
     color: white;
@@ -119,7 +118,6 @@
 }
 
 .search-bar::placeholder {
-    font-family: Roboto,Arial;
     font-size: 16px;
 }
 
